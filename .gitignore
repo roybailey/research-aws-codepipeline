@@ -1,0 +1,25 @@
+*.class
+*.jar
+*.war
+*.ear
+*.log
+*.pem
+*.license
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+.DS_Store
+.idea
+.gradle
+.classpath
+.project
+keystore
+build/
+target/
+node_modules/
+bower_components/
+public/_assets
+keystore
+keystore/
+
